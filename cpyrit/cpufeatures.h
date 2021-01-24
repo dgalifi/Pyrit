@@ -34,7 +34,7 @@
 #endif
 
 #if (defined(__AES__) && defined(__PCLMUL__))
-    #define COMPILE_AESNI
+    // #define COMPILE_AESNI
 #endif
 
 #endif /* CPUFEATURES */
